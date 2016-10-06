@@ -1,2 +1,2 @@
-# aws_provisioning
-Provisioning for AWS with Terraform
+# aws_configuration
+Configuration for AWS with Terraform
